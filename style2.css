@@ -1,0 +1,44 @@
+h1 {
+    font-size: 60px;
+    background-color: #f4a742;
+    font-family: arial, verdana;
+}
+
+h2 {
+    font-size: 50px;
+    padding-left: 200px;
+    font-family: courier, courier-new, serif;
+    color: #123455;
+}
+
+h3 {
+    font-size: 60px;
+    font-family: papyrus;
+    color: #34ABCD;
+}
+
+body {
+    font-family: arial, verdana;
+    font-size: 20px;
+}
+				 
+
+.extreme{
+  background-color: white;
+  color: black;
+  margin: 5px;
+  padding: 10px;
+}
+
+.navzone{
+  font-family: courier, courier-new, serif;
+  color:green;
+  font-style: italic;
+}
+
+
+#tehlulz{
+  color: blue;
+  background-color: white;
+  text-align: center;
+}

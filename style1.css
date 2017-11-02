@@ -1,0 +1,28 @@
+body{
+    background-color: #abcdef;
+}
+
+h1{
+  font-family: courier, courier-new, serif;
+  color:red;
+  font-style: bold;
+}
+p{
+  font-family: arial, verdana;
+  font-size: 30pt;
+  color: #12AB34;
+}
+li{
+    color:orange;
+      font-size: 15pt;
+ text-align: center;
+}
+
+body{
+    color: pink;
+    font-family: "Times New Roman", Times, serif;
+}
+h3, h2{
+    color: blue;
+    font-style: italic;
+}
